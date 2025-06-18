@@ -1,0 +1,24 @@
+Cluster 0: purity = 0.26, most common label = berry
+Label counts: Counter({'berry': 55, 'butter': 46, 'lemon': 44, 'roll': 29, 'jam': 19, 'choco': 14, 'Seaweed': 2, 'donut': 1})
+Cluster 1: purity = 0.99, most common label = Pineapple
+Label counts: Counter({'Pineapple': 188, 'donut': 1, 'Seaweed': 1})
+Cluster 2: purity = 0.80, most common label = Seaweed
+Label counts: Counter({'Seaweed': 215, 'Cake': 52, 'Pineapple': 1, 'Garlic': 1})
+Cluster 3: purity = 0.97, most common label = Garlic
+Label counts: Counter({'Garlic': 230, 'Cake': 3, 'Pineapple': 2, 'Baguette': 1, 'Seaweed': 1, 'donut': 1})
+Cluster 4: purity = 0.98, most common label = donut
+Label counts: Counter({'donut': 223, 'Pineapple': 3, 'Seaweed': 1, 'Garlic': 1})
+Cluster 5: purity = 0.99, most common label = jam
+Label counts: Counter({'jam': 116, 'lemon': 1})
+Cluster 6: purity = 0.95, most common label = Baguette
+Label counts: Counter({'Baguette': 84, 'donut': 2, 'Garlic': 1, 'Pineapple': 1})
+Cluster 7: purity = 1.00, most common label = butter
+Label counts: Counter({'butter': 85})
+Cluster 8: purity = 0.94, most common label = lemon
+Label counts: Counter({'lemon': 114, 'jam': 3, 'berry': 3, 'butter': 1})
+Cluster 9: purity = 1.00, most common label = roll
+Label counts: Counter({'roll': 98})
+Cluster 10: purity = 0.99, most common label = choco
+Label counts: Counter({'choco': 84, 'butter': 1})
+Cluster 11: purity = 0.50, most common label = choco
+Label counts: Counter({'choco': 58, 'berry': 47, 'jam': 6, 'butter': 3, 'lemon': 1})
